@@ -1,4 +1,4 @@
-### OLá! Eu sou RicardoFw👋
+### OLá! Eu sou RicardoFw 👋
 
 <div align="center">
   <a href="https://github.com/RicardoFW">
