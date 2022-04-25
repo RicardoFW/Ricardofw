@@ -1,5 +1,4 @@
-### OLá eu sou RicardoFw👋
-**RicardoFW/Ricardofw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### OLá! Eu sou RicardoFw👋
 
 <div align="center">
   <a href="https://github.com/RicardoFW">
